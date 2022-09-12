@@ -11,19 +11,19 @@
 <h1 align="center">NLW E-Sports Mission Explorer</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/explorer?color=9A35FF">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/AlexMarquesAlves/explorer?color=9A35FF">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexMarquesAlves/explorer?color=9A35FF">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF">
 
-  <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/explorer?color=9A35FF">
+  <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/explorer?color=9A35FF" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/explorer?color=9A35FF" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/explorer?color=9A35FF" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF" /> -->
 </p>
 
 Status
