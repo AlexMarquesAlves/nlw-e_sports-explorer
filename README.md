@@ -11,19 +11,19 @@
 <h1 align="center">NLW E-Sports Mission Explorer</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/explorer?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/explorer?color=9A35FF">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/AlexMarquesAlves/explorer?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/AlexMarquesAlves/explorer?color=9A35FF">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexMarquesAlves/explorer?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexMarquesAlves/explorer?color=9A35FF">
 
-  <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/explorer?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/explorer?color=9A35FF">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/explorer?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/explorer?color=9A35FF" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/explorer?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/explorer?color=9A35FF" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/explorer?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/explorer?color=9A35FF" /> -->
 </p>
 
 Status
@@ -48,13 +48,13 @@ Status
 
 ## :dart: About
 
-Describe your project
+Projeto desenvolvido durante a NLW eSports da Rocketseat na trilha Explorer
 
-## :sparkles: Features
+<!-- ## :sparkles: Features
 
 :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Feature 3; -->
 
 ## :rocket: Technologies
 
@@ -62,7 +62,7 @@ The following tools were used in this project:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [SASS](https://sass-lang.com/)
-- [TypeScript](https://www.typescriptlang.org/)
+<!-- - [TypeScript](https://www.typescriptlang.org/) -->
 
 ## :white_check_mark: Requirements
 
