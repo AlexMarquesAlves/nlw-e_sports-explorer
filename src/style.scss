@@ -79,6 +79,14 @@ body {
         letter-spacing: -0.18px;
         color: #a1a1aa;
       }
+
+      ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+
+        margin-top: 24px;
+      }
     }
   }
 }
