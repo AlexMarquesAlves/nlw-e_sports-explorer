@@ -64,5 +64,12 @@ body {
     );
     padding-top: 4px;
     border-radius: 10px;
+
+    > div {
+      background-color: #2a2634;
+      padding: 2rem;
+      padding-top: 24px;
+      border-radius: 8px;
+    }
   }
 }
