@@ -42,6 +42,7 @@ body {
 
   header {
     padding-top: 32px;
+    height: calc(120px + 32px);
 
     div {
       width: 120px;
@@ -132,5 +133,19 @@ body {
         }
       }
     }
+  }
+}
+
+/* Animations */
+
+@keyframes fromTop {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
