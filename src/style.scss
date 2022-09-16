@@ -138,6 +138,10 @@ body {
 
 /* Animations */
 
+header div {
+  animation: fromTop 700ms 200ms backwards;
+}
+
 @keyframes fromTop {
   from {
     opacity: 0;
