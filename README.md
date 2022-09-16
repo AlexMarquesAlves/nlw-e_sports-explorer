@@ -1,11 +1,12 @@
 #
 
 <div align="center" id="top">
-  <!-- <img src="./.github/app.gif" alt="Explorer" /> -->
+  <img src="./.github/app.png" alt="Explorer" />
 
 &#xa0;
 
-  <!-- <a href="https://explorer.netlify.app">Demo</a> -->
+<!-- <a href="https://nlw-e-sports-explorer-gamma.vercel.app/">Acessar Demo</a> -->
+
 </div>
 
 <h1 align="center">NLW E-Sports Mission Explorer</h1>
@@ -19,18 +20,18 @@
 
   <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF" />
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF" /> -->
+  <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF" />
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/nlw-e_sports-explorer?color=9A35FF" />
 </p>
 
-Status
+<!-- Status
 
 <h4 align="center">
  🚧 NLW E-Sports Mission Explorer 🚀 Under construction...  🚧
-</h4>
+</h4> -->
 
 <hr>
 
@@ -62,7 +63,7 @@ The following tools were used in this project:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [SASS](https://sass-lang.com/)
-<!-- - [TypeScript](https://www.typescriptlang.org/) -->
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements
 
@@ -72,18 +73,18 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/AlexMarquesAlves/explorer
+$ git clone https://github.com/AlexMarquesAlves/nlw-e_sports-explorer
 
 # Access
-$ cd explorer
+$ cd nlw-e_sports-explorer
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the project
-$ yarn start
+$ npm run dev
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:5173>
 ```
 
 ## :memo: License
