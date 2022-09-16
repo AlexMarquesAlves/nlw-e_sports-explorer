@@ -72,10 +72,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/AlexMarquesAlves/explorer
+$ git clone https://github.com/AlexMarquesAlves/nlw-e_sports-explorer
 
 # Access
-$ cd explorer
+$ cd nlw-e_sports-explorer
 
 # Install dependencies
 $ yarn
@@ -83,7 +83,7 @@ $ yarn
 # Run the project
 $ yarn start
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:5173>
 ```
 
 ## :memo: License
